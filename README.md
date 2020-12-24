@@ -1,2 +1,2 @@
 # ScalaGettingStarted
-Project for getting started with Scala using sbt
+Repository for getting started with Scala using sbt
